@@ -1,0 +1,3 @@
+TR = Bu proje, çok değişkenli zaman serisi analizi kullanarak hisse senedi fiyatlarını tahmin etmeyi amaçlamaktadır. 'Ticker', 'Date', 'Open', 'High', 'Low', 'Close', 'Adj Close' ve 'Volume' gibi çeşitli özellikleri içeren zaman serisi verileri üzerinde gerçekleştirilecek analizler sayesinde, hisse senedi fiyatlarının gelecekteki hareketlerini daha doğru bir şekilde tahmin edebilmek için bir model geliştirilecektir.
+
+EN = This project aims to predict stock prices using multivariate time series analysis. A model will be developed to predict future movements of stock prices more accurately through analysis on time series data containing various features such as 'Ticker', 'Date', 'Open', 'High', 'Low', 'Close', 'Adj Close' and 'Volume'.
